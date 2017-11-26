@@ -21,7 +21,6 @@ public class Crab extends Canvas{
         gc.setFill(c = Color.rgb(249, 1, 0));
         gc.fillOval(this.getTranslateX(), this.getTranslateY() ,80, 60);//ตัว
 
-        gc.fillOval(this.getTranslateX(), this.getTranslateY() ,80, 60);//ตัว
 
     }
 
